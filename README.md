@@ -21,11 +21,11 @@ Depending on your fishing level select one of the links below to copy and paste.
 |-----------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | Guru 16 or above      	                 | https://raw.githubusercontent.com/karpfediem/bdo-fishing-hotspot-features/main/files/guru16.json 	        |
 | Guru 11 or above       	                | https://raw.githubusercontent.com/karpfediem/bdo-fishing-hotspot-features/main/files/guru11.json 	        |
-| Guru 10 or above              	         | 	https://raw.githubusercontent.com/karpfediem/bdo-fishing-hotspot-features/main/files/guru11.json         |
-| Guru 9 or above              	          | 	https://raw.githubusercontent.com/karpfediem/bdo-fishing-hotspot-features/main/files/guru11.json         |
-| Guru 6 or above              	          | 	https://raw.githubusercontent.com/karpfediem/bdo-fishing-hotspot-features/main/files/guru11.json         |
-| Guru 5 or above              	          | 	https://raw.githubusercontent.com/karpfediem/bdo-fishing-hotspot-features/main/files/guru11.json         |
-| Guru 1 or above              	          | 	https://raw.githubusercontent.com/karpfediem/bdo-fishing-hotspot-features/main/files/guru11.json         |
+| Guru 10 or above              	         | 	https://raw.githubusercontent.com/karpfediem/bdo-fishing-hotspot-features/main/files/guru10.json         |
+| Guru 9 or above              	          | 	https://raw.githubusercontent.com/karpfediem/bdo-fishing-hotspot-features/main/files/guru9.json          |
+| Guru 6 or above              	          | 	https://raw.githubusercontent.com/karpfediem/bdo-fishing-hotspot-features/main/files/guru6.json          |
+| Guru 5 or above              	          | 	https://raw.githubusercontent.com/karpfediem/bdo-fishing-hotspot-features/main/files/guru5.json          |
+| Guru 1 or above              	          | 	https://raw.githubusercontent.com/karpfediem/bdo-fishing-hotspot-features/main/files/guru1.json          |
 | Master 30 or above              	       | 	https://raw.githubusercontent.com/karpfediem/bdo-fishing-hotspot-features/main/files/master30.json       |
 | Master 29 or above              	       | 	https://raw.githubusercontent.com/karpfediem/bdo-fishing-hotspot-features/main/files/master29.json       |
 | Master 27 or above              	       | 	https://raw.githubusercontent.com/karpfediem/bdo-fishing-hotspot-features/main/files/master27.json       |
@@ -92,3 +92,11 @@ Depending on your fishing level select one of the links below to copy and paste.
 | Apprentice 3 or above              	    | 	https://raw.githubusercontent.com/karpfediem/bdo-fishing-hotspot-features/main/files/apprentice3.json    |
 | Apprentice 2 or above              	    | 	https://raw.githubusercontent.com/karpfediem/bdo-fishing-hotspot-features/main/files/apprentice2.json    |
 | Apprentice 1 or above              	    | 	https://raw.githubusercontent.com/karpfediem/bdo-fishing-hotspot-features/main/files/apprentice1.json    |
+
+
+# Credit
+
+**Famme** for creating and publishing (!) the somethinglovely BDO map (https://github.com/fffam/blackdesert-somethinglovely-map)
+
+
+**bondenn** for figuring out how to map the hotspot zones into geometry objects and doing the grunt-work of mapping them for each lifeskill level (https://web.archive.org/web/20201112023134/http://www.gitgud.eu/bdo/fishing/)
