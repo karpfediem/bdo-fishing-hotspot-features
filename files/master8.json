@@ -1,0 +1,3487 @@
+{
+	"type": "FeatureCollection",
+	"properties": {
+		"name": "Fishing Hotspots - 58",
+		"color": "#FF0000"
+	},
+	"features": [
+	{
+		"id": 1,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[3109,94212],[3109,96949],[11243,96949],[11243,94212]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/1.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffe119" }
+		}
+	},
+	{
+		"id": 2,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-73592,253493],[-73592,198722],[-33080,198722],[-33080,253493]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/2.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffe119" }
+		}
+	},
+	{
+		"id": 3,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-214067,382939],[-214067,325446],[-106075,325446],[-106075,382939]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/3.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffe119" }
+		}
+	},
+	{
+		"id": 4,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-53327,487456],[-53327,425465],[161625,425465],[161625,487456]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/4.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffe119" }
+		}
+	},
+	{
+		"id": 5,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[46110,559161],[46110,492978],[174979,492978],[174979,559161]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/5.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffe119" }
+		}
+	},
+	{
+		"id": 6,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[173154,484396],[173154,387139],[249938,387139],[249938,484396]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/6.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffe119" }
+		}
+	},
+	{
+		"id": 7,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[216691,380948],[216691,313545],[404353,313545],[404353,380948]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/7.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffe119" }
+		}
+	},
+	{
+		"id": 8,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[275194,297082],[275194,208440],[395815,208440],[395815,297082]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/8.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffe119" }
+		}
+	},
+	{
+		"id": 9,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-511534,79022],[-511534,19101],[-477584,19101],[-477584,79022]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/9.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffe119" }
+		}
+	},
+	{
+		"id": 10,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-560896,139444],[-560896,81687],[-536101,81687],[-536101,139444]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/10.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffe119" }
+		}
+	},
+	{
+		"id": 11,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-522280,310762],[-522280,202527],[-460260,202527],[-460260,310762]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/11.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffe119" }
+		}
+	},
+	{
+		"id": 12,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-348043,263845],[-348043,201370],[-261767,201370],[-261767,263845]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/12.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffe119" }
+		}
+	},
+	{
+		"id": 13,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-349428,468370],[-349428,439448],[-177676,439448],[-177676,468370]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/13.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffe119" }
+		}
+	},
+	{
+		"id": 14,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[1307153,636739],[1307153,389057],[1433064,389057],[1433064,636739]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/14.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffe119" }
+		}
+	},
+	{
+		"id": 15,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[1344482,377504],[1344482,9049],[1432418,9049],[1432418,377504]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/15.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffe119" }
+		}
+	},
+	{
+		"id": 16,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[1345592,-6828],[1345592,-300534],[1429761,-300534],[1429761,-6828]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/16.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffe119" }
+		}
+	},
+	{
+		"id": 17,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-40689,118156],[-40689,95752],[-2492,95752],[-2492,118156]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/17.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffe119" }
+		}
+	},
+	{
+		"id": 18,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-45424,144603],[-45424,120302],[-17531,120302],[-17531,144603]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/18.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffe119" }
+		}
+	},
+	{
+		"id": 19,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-27858,167638],[-27858,148399],[-1994,148399],[-1994,167638]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/19.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffe119" }
+		}
+	},
+	{
+		"id": 20,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-104413,196620],[-104413,167017],[-61712,167017],[-61712,196620]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/20.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffe119" }
+		}
+	},
+	{
+		"id": 21,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-392462,31609],[-392462,18457],[-380504,18457],[-380504,31609]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/21.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffe119" }
+		}
+	},
+	{
+		"id": 22,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-403554,59707],[-403554,39093],[-369226,39093],[-369226,59707]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/22.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffe119" }
+		}
+	},
+	{
+		"id": 23,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-369988,79583],[-369988,63456],[-357988,63456],[-357988,79583]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/23.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffe119" }
+		}
+	},
+	{
+		"id": 24,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-406684,76288],[-406684,61695],[-388608,61695],[-388608,76288]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/24.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffe119" }
+		}
+	},
+	{
+		"id": 25,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[1285018,203147],[1285018,186698],[1313079,186698],[1313079,203147]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/25.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffe119" }
+		}
+	},
+	{
+		"id": 26,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[1299541,232839],[1299541,207805],[1328085,207805],[1328085,232839]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/26.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffe119" }
+		}
+	},
+	{
+		"id": 27,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[1322349,201534],[1322349,189760],[1340475,189760],[1340475,201534]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/27.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffe119" }
+		}
+	},
+	{
+		"id": 28,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[1306147,180977],[1306147,166083],[1331503,166083],[1331503,180977]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/28.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffe119" }
+		}
+	},
+	{
+		"id": 29,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-61226,149840],[-61226,119440],[-22454,119440],[-22454,149840]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/29.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#46f0f0" }
+		}
+	},
+	{
+		"id": 30,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-37456,215955],[-37456,189785],[13723,189785],[13723,215955]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/30.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#46f0f0" }
+		}
+	},
+	{
+		"id": 31,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-119404,265553],[-119404,248516],[-103701,248516],[-103701,265553]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/31.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#46f0f0" }
+		}
+	},
+	{
+		"id": 32,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-101010,312619],[-101010,280179],[-7550,280179],[-7550,312619]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/32.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#46f0f0" }
+		}
+	},
+	{
+		"id": 33,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-265920,273469],[-265920,250333],[-250778,250333],[-250778,273469]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/33.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#46f0f0" }
+		}
+	},
+	{
+		"id": 34,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-264265,298644],[-264265,288769],[-244619,288769],[-244619,298644]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/34.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#46f0f0" }
+		}
+	},
+	{
+		"id": 35,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-241711,305629],[-241711,288084],[-198344,288084],[-198344,305629]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/35.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#46f0f0" }
+		}
+	},
+	{
+		"id": 36,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-215649,283504],[-215649,251784],[-189296,251784],[-189296,283504]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/36.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#46f0f0" }
+		}
+	},
+	{
+		"id": 37,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-113677,329257],[-113677,314288],[-93398,314288],[-93398,329257]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/37.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#46f0f0" }
+		}
+	},
+	{
+		"id": 38,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-154949,472468],[-154949,437997],[28750,437997],[28750,472468]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/38.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#46f0f0" }
+		}
+	},
+	{
+		"id": 47,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-167030,303409],[-167030,246281],[-141955,246281],[-141955,303409]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/47.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#aa6e28" }
+		}
+	},
+	{
+		"id": 48,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-218656,295639],[-218656,265989],[-196566,265989],[-196566,295639]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/48.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#aa6e28" }
+		}
+	},
+	{
+		"id": 49,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-140839,371576],[-140839,343715],[19855,343715],[19855,371576]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/49.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#aa6e28" }
+		}
+	},
+	{
+		"id": 50,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-33149,417512],[-33149,391340],[51639,391340],[51639,417512]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/50.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#aa6e28" }
+		}
+	},
+	{
+		"id": 51,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-84910,497956],[-84910,462609],[14576,462609],[14576,497956]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/51.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#aa6e28" }
+		}
+	},
+	{
+		"id": 52,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[31234,309255],[31234,270409],[75761,270409],[75761,309255]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/52.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#aa6e28" }
+		}
+	},
+	{
+		"id": 53,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[124843,259361],[124843,231643],[263303,231643],[263303,259361]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/53.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#aa6e28" }
+		}
+	},
+	{
+		"id": 54,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[157383,226255],[157383,190883],[188664,190883],[188664,226255]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/54.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#aa6e28" }
+		}
+	},
+	{
+		"id": 55,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[292214,389771],[292214,204749],[326221,204749],[326221,389771]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/55.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#aa6e28" }
+		}
+	},
+	{
+		"id": 56,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[89592,475438],[89592,372869],[220472,372869],[220472,475438]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/56.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#aa6e28" }
+		}
+	},
+	{
+		"id": 62,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-195250,232815],[-195250,217642],[-143714,217642],[-143714,232815]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/62.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#800000" }
+		}
+	},
+	{
+		"id": 63,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-213720,282076],[-213720,263184],[-108268,263184],[-108268,282076]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/63.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#800000" }
+		}
+	},
+	{
+		"id": 64,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-18667,276450],[-18667,219924],[24314,219924],[24314,276450]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/64.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#800000" }
+		}
+	},
+	{
+		"id": 65,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[47182,316288],[47182,218197],[72122,218197],[72122,316288]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/65.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#800000" }
+		}
+	},
+	{
+		"id": 66,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[199126,282262],[199126,227279],[246866,227279],[246866,282262]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/66.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#800000" }
+		}
+	},
+	{
+		"id": 67,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-174310,335259],[-174310,308358],[-159901,308358],[-159901,335259]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/67.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#800000" }
+		}
+	},
+	{
+		"id": 68,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-153319,424742],[-153319,389964],[-133684,389964],[-133684,424742]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/68.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#800000" }
+		}
+	},
+	{
+		"id": 69,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-119268,482079],[-119268,449467],[-68765,449467],[-68765,482079]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/69.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#800000" }
+		}
+	},
+	{
+		"id": 70,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-31593,447292],[-31593,316463],[15594,316463],[15594,447292]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/70.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#800000" }
+		}
+	},
+	{
+		"id": 71,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[72383,395206],[72383,354390],[122115,354390],[122115,395206]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/71.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#800000" }
+		}
+	},
+	{
+		"id": 78,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-147910,220873],[-147910,205517],[-118083,205517],[-118083,220873]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/78.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#3cb44b" }
+		}
+	},
+	{
+		"id": 79,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-94717,254850],[-94717,247953],[-65941,247953],[-65941,254850]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/79.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#3cb44b" }
+		}
+	},
+	{
+		"id": 80,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-53389,287808],[-53389,241405],[-2602,241405],[-2602,287808]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/80.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#3cb44b" }
+		}
+	},
+	{
+		"id": 81,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-262538,250595],[-262538,221912],[-230417,221912],[-230417,250595]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/81.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#3cb44b" }
+		}
+	},
+	{
+		"id": 82,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[106600,268475],[106600,208914],[130478,208914],[130478,268475]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/82.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#3cb44b" }
+		}
+	},
+	{
+		"id": 83,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[7351,337367],[7351,313130],[56377,313130],[56377,337367]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/83.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#3cb44b" }
+		}
+	},
+	{
+		"id": 84,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[2230704,332784],[2230704,205680],[238879,205680],[238879,332784]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/84.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#3cb44b" }
+		}
+	},
+	{
+		"id": 85,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-149676,392560],[-149676,354650],[-109912,354650],[-109912,392560]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/85.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#3cb44b" }
+		}
+	},
+	{
+		"id": 86,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-161596,466298],[-161596,408633],[-131792,408633],[-131792,466298]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/86.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#3cb44b" }
+		}
+	},
+	{
+		"id": 87,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[61294,302825],[61294,284922],[93490,284922],[93490,302825]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/87.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#3cb44b" }
+		}
+	},
+	{
+		"id": 94,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-427802,90610],[-427802,57189],[-404885,57189],[-404885,90610]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/94.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#0082c8" }
+		}
+	},
+	{
+		"id": 95,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-428033,148494],[-428033,106327],[-399358,106327],[-399358,148494]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/95.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#0082c8" }
+		}
+	},
+	{
+		"id": 96,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-513611,86828],[-513611,50378],[-454653,50378],[-454653,86828]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/96.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#0082c8" }
+		}
+	},
+	{
+		"id": 97,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-553906,105119],[-553906,91325],[-508332,91325],[-508332,105119]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/97.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#0082c8" }
+		}
+	},
+	{
+		"id": 98,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-554425,74498],[-554425,57541],[-541910,57541],[-541910,74498]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/98.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#0082c8" }
+		}
+	},
+	{
+		"id": 99,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-495105,219915],[-495105,139589],[-470079,139589],[-470079,219915]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/99.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#0082c8" }
+		}
+	},
+	{
+		"id": 100,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-421729,275029],[-421729,240025],[-352130,240025],[-352130,275029]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/100.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#0082c8" }
+		}
+	},
+	{
+		"id": 101,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-339543,226884],[-339543,188423],[-289017,188423],[-289017,226884]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/101.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#0082c8" }
+		}
+	},
+	{
+		"id": 102,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-507443,323547],[-507443,278742],[-463562,278742],[-463562,323547]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/102.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#0082c8" }
+		}
+	},
+	{
+		"id": 103,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-279932,316513],[-279932,309925],[-247297,309925],[-247297,316513]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/103.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#0082c8" }
+		}
+	},
+	{
+		"id": 109,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-489300,81772],[-489300,53688],[-447442,53688],[-447442,81772]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/109.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#808080" }
+		}
+	},
+	{
+		"id": 110,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-564657,107087],[-564657,70649],[-540297,70649],[-540297,107087]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/110.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#808080" }
+		}
+	},
+	{
+		"id": 111,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-424274,180739],[-424274,152903],[-394536,152903],[-394536,180739]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/111.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#808080" }
+		}
+	},
+	{
+		"id": 112,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-360952,221990],[-360952,205694],[-344985,205694],[-344985,221990]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/112.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#808080" }
+		}
+	},
+	{
+		"id": 113,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-335307,257461],[-335307,208969],[-297899,208969],[-297899,257461]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/113.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#808080" }
+		}
+	},
+	{
+		"id": 114,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-315321,176730],[-315321,155633],[-285948,155633],[-285948,176730]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/114.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#808080" }
+		}
+	},
+	{
+		"id": 115,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-489372,349013],[-489372,288725],[-452606,288725],[-452606,349013]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/115.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#808080" }
+		}
+	},
+	{
+		"id": 116,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-407245,322020],[-407245,237223],[-399850,237223],[-399850,322020]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/116.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#808080" }
+		}
+	},
+	{
+		"id": 117,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-284043,340722],[-284043,268113],[-276698,268113],[-276698,340722]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/117.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#808080" }
+		}
+	},
+	{
+		"id": 118,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-437322,414742],[-437322,389918],[-409005,389918],[-409005,414742]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/118.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#808080" }
+		}
+	},
+	{
+		"id": 124,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-465225,132321],[-465225,115773],[-391714,115773],[-391714,132321]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/124.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#008080" }
+		}
+	},
+	{
+		"id": 125,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-415572,168562],[-415572,133934],[-348455,133934],[-348455,168562]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/125.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#008080" }
+		}
+	},
+	{
+		"id": 126,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-515834,124062],[-515834,73819],[-500293,73819],[-500293,124062]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/126.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#008080" }
+		}
+	},
+	{
+		"id": 127,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-552168,155764],[-552168,125307],[-525090,125307],[-525090,155764]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/127.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#008080" }
+		}
+	},
+	{
+		"id": 128,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-530422,-7657],[-530422,175558],[-488822,175558],[-488822,-7657]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/128.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#008080" }
+		}
+	},
+	{
+		"id": 129,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-476222,277530],[-476222,252654],[-374563,252654],[-374563,277530]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/129.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#008080" }
+		}
+	},
+	{
+		"id": 130,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-417765,244839],[-417765,206851],[-414865,206851],[-414865,244839]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/130.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#008080" }
+		}
+	},
+	{
+		"id": 131,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-320859,284076],[-320859,253709],[-279905,253709],[-279905,284076]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/131.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#008080" }
+		}
+	},
+	{
+		"id": 132,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-420567,324993],[-420567,311631],[-392496,311631],[-392496,324993]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/132.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#008080" }
+		}
+	},
+	{
+		"id": 133,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-357822,361824],[-357822,350234],[-290677,350234],[-290677,361824]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/133.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#008080" }
+		}
+	},
+	{
+		"id": 139,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-422505,107072],[-422505,76870],[-397841,76870],[-397841,107072]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/139.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#f58231" }
+		}
+	},
+	{
+		"id": 140,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-382160,172595],[-382160,131563],[-343242,131563],[-343242,172595]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/140.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#f58231" }
+		}
+	},
+	{
+		"id": 141,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-456358,119588],[-456358,105123],[-433858,105123],[-433858,119588]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/141.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#f58231" }
+		}
+	},
+	{
+		"id": 142,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-538273,55339],[-538273,24608],[-491596,24608],[-491596,55339]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/142.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#f58231" }
+		}
+	},
+	{
+		"id": 143,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-531659,134829],[-531659,120044],[-508103,120044],[-508103,134829]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/143.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#f58231" }
+		}
+	},
+	{
+		"id": 144,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-540381,181815],[-540381,149555],[-524628,149555],[-524628,181815]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/144.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#f58231" }
+		}
+	},
+	{
+		"id": 145,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-505755,195333],[-505755,168335],[-461407,168335],[-461407,195333]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/145.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#f58231" }
+		}
+	},
+	{
+		"id": 146,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-455050,179810],[-455050,171374],[-416012,171374],[-416012,179810]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/146.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#f58231" }
+		}
+	},
+	{
+		"id": 147,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-311504,201560],[-311504,170087],[-290539,170087],[-290539,201560]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/147.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#f58231" }
+		}
+	},
+	{
+		"id": 148,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-372681,262331],[-372681,231557],[-328275,231557],[-328275,262331]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/148.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#f58231" }
+		}
+	},
+	{
+		"id": 155,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[375792,426533],[375792,343625],[400633,343625],[400633,426533]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/155.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#000080" }
+		}
+	},
+	{
+		"id": 156,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[360999,333586],[360999,298403],[406868,298403],[406868,333586]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/156.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#000080" }
+		}
+	},
+	{
+		"id": 157,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[354956,249466],[354956,202100],[410072,202100],[410072,249466]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/157.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#000080" }
+		}
+	},
+	{
+		"id": 158,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[1227062,609156],[1227062,588553],[1413417,588553],[1413417,609156]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/158.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#000080" }
+		}
+	},
+	{
+		"id": 159,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[1266616,501609],[1266616,430423],[1361010,430423],[1361010,501609]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/159.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#000080" }
+		}
+	},
+	{
+		"id": 160,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[1409232,503844],[1409232,409305],[1433045,409305],[1433045,503844]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/160.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#000080" }
+		}
+	},
+	{
+		"id": 161,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[1332574,354285],[1332574,298465],[1408000,298465],[1408000,354285]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/161.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#000080" }
+		}
+	},
+	{
+		"id": 162,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[1326201,245152],[1326201,161142],[1408874,161142],[1408874,245152]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/162.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#000080" }
+		}
+	},
+	{
+		"id": 163,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[1378939,45169],[1378939,-101905],[1400752,-101905],[1400752,45169]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/163.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#000080" }
+		}
+	},
+	{
+		"id": 164,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[1322418,-6228],[1322418,-75099],[1403188,-75099],[1403188,-6228]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/164.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#000080" }
+		}
+	},
+	{
+		"id": 169,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[389838,418795],[389838,387997],[429809,387997],[429809,418795]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/169.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#911eb4" }
+		}
+	},
+	{
+		"id": 170,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[391818,361081],[391818,346672],[438811,346672],[438811,361081]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/170.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#911eb4" }
+		}
+	},
+	{
+		"id": 171,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[357975,328062],[357975,223633],[400309,223633],[400309,328062]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/171.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#911eb4" }
+		}
+	},
+	{
+		"id": 172,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[407589,295504],[407589,283396],[485859,283396],[485859,295504]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/172.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#911eb4" }
+		}
+	},
+	{
+		"id": 173,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[1342687,643684],[1342687,551435],[1395961,551435],[1395961,643684]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/173.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#911eb4" }
+		}
+	},
+	{
+		"id": 174,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[1407926,640077],[1407926,529116],[1427893,529116],[1427893,640077]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/174.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#911eb4" }
+		}
+	},
+	{
+		"id": 175,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[1289452,517150],[1289452,458483],[1428405,458483],[1428405,517150]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/175.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#911eb4" }
+		}
+	},
+	{
+		"id": 176,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[1361524,414683],[1361524,336431],[1423267,336431],[1423267,414683]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/176.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#911eb4" }
+		}
+	},
+	{
+		"id": 177,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[1372761,310023],[1372761,225504],[1430226,225504],[1430226,310023]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/177.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#911eb4" }
+		}
+	},
+	{
+		"id": 178,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[1355588,177550],[1355588,77705],[1413987,77705],[1413987,177550]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/178.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#911eb4" }
+		}
+	},
+	{
+		"id": 184,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[384531,402275],[384531,357464],[408082,357464],[408082,402275]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/184.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#fffac8" }
+		}
+	},
+	{
+		"id": 185,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[441958,383517],[441958,325399],[460071,325399],[460071,383517]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/185.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#fffac8" }
+		}
+	},
+	{
+		"id": 186,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[428550,313929],[428550,299425],[455628,299425],[455628,313929]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/186.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#fffac8" }
+		}
+	},
+	{
+		"id": 187,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[389535,294396],[389535,270231],[429639,270231],[429639,294396]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/187.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#fffac8" }
+		}
+	},
+	{
+		"id": 188,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[1264981,628087],[1264981,604913],[1424257,604913],[1424257,628087]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/188.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#fffac8" }
+		}
+	},
+	{
+		"id": 189,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[1295970,527506],[1295970,485750],[1344172,485750],[1344172,527506]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/189.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#fffac8" }
+		}
+	},
+	{
+		"id": 190,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[1362916,563916],[1362916,468187],[1413496,468187],[1413496,563916]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/190.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#fffac8" }
+		}
+	},
+	{
+		"id": 191,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[1307984,463095],[1307984,405689],[1409282,405689],[1409282,463095]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/191.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#fffac8" }
+		}
+	},
+	{
+		"id": 192,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[1418231,423774],[1418231,284440],[1433191,284440],[1433191,423774]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/192.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#fffac8" }
+		}
+	},
+	{
+		"id": 193,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[1338915,398101],[1338915,348351],[1409578,348351],[1409578,398101]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/193.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#fffac8" }
+		}
+	},
+	{
+		"id": 200,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[435737,378022],[435737,345724],[466484,345724],[466484,378022]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/200.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#e6194b" }
+		}
+	},
+	{
+		"id": 201,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[40339,309315],[40339,288829],[462873,288829],[462873,309315]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/201.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#e6194b" }
+		}
+	},
+	{
+		"id": 202,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[1316766,597560],[1316766,509022],[1371368,509022],[1371368,597560]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/202.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#e6194b" }
+		}
+	},
+	{
+		"id": 203,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[1380906,593048],[1380906,511692],[1433110,511692],[1433110,593048]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/203.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#e6194b" }
+		}
+	},
+	{
+		"id": 204,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[1380890,482862],[1380890,386967],[1419975,386967],[1419975,482862]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/204.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#e6194b" }
+		}
+	},
+	{
+		"id": 205,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[1294236,408255],[1294236,313490],[1364619,313490],[1364619,408255]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/205.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#e6194b" }
+		}
+	},
+	{
+		"id": 206,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[1393606,356981],[1393606,279378],[1432923,279378],[1432923,356981]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/206.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#e6194b" }
+		}
+	},
+	{
+		"id": 207,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[1354474,257537],[1354474,148443],[1427201,148443],[1427201,257537]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/207.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#e6194b" }
+		}
+	},
+	{
+		"id": 208,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[1411126,134527],[1411126,-73139],[1432969,-73139],[1432969,134527]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/208.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#e6194b" }
+		}
+	},
+	{
+		"id": 209,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[1331514,102016],[1331514,4995],[1388580,4995],[1388580,102016]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/209.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#e6194b" }
+		}
+	},
+	{
+		"id": 215,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-79893,101862],[-79893,97002],[-78219,97002],[-78219,101862]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/215.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#fabebe" }
+		}
+	},
+	{
+		"id": 216,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-82618,95017],[-82618,89785],[-80491,89785],[-80491,95017]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/216.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#fabebe" }
+		}
+	},
+	{
+		"id": 217,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-86139,87510],[-86139,84908],[-84830,84908],[-84830,87510]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/217.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#fabebe" }
+		}
+	},
+	{
+		"id": 218,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-88743,83693],[-88743,81910],[-87526,81910],[-87526,83693]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/218.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#fabebe" }
+		}
+	},
+	{
+		"id": 219,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-89088,81454],[-89088,75595],[-87502,75595],[-87502,81454]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/219.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#fabebe" }
+		}
+	},
+	{
+		"id": 220,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-86760,74497],[-86760,70462],[-85058,70462],[-85058,74497]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/220.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#fabebe" }
+		}
+	},
+	{
+		"id": 221,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-84342,69376],[-84342,67899],[-82433,67899],[-82433,69376]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/221.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#fabebe" }
+		}
+	},
+	{
+		"id": 222,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-80779,66131],[-80779,64469],[-76635,64469],[-76635,66131]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/222.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#fabebe" }
+		}
+	},
+	{
+		"id": 223,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-75303,63632],[-75303,60505],[-74156,60505],[-74156,63632]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/223.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#fabebe" }
+		}
+	},
+	{
+		"id": 224,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-78964,60104],[-78964,58196],[-76968,58196],[-76968,60104]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/224.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#fabebe" }
+		}
+	},
+	{
+		"id": 225,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-83800,54714],[-83800,53002],[-82113,53002],[-82113,54714]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/225.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#fabebe" }
+		}
+	},
+	{
+		"id": 226,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-84897,52507],[-84897,47256],[-83662,47256],[-83662,52507]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/226.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#fabebe" }
+		}
+	},
+	{
+		"id": 227,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-80691,42925],[-80691,41207],[-77921,41207],[-77921,42925]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/227.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#fabebe" }
+		}
+	},
+	{
+		"id": 228,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-76819,39829],[-76819,38878],[-75008,38878],[-75008,39829]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/228.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#fabebe" }
+		}
+	},
+	{
+		"id": 229,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-73574,36552],[-73574,35245],[-72096,35245],[-72096,36552]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/229.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#fabebe" }
+		}
+	},
+	{
+		"id": 230,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-72310,34649],[-72310,29145],[-70718,29145],[-70718,34649]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/230.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#fabebe" }
+		}
+	},
+	{
+		"id": 231,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-70236,25779],[-70236,13260],[-69084,13260],[-69084,25779]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/231.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#fabebe" }
+		}
+	},
+	{
+		"id": 232,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-70111,12916],[-70111,-2467],[-69407,-2467],[-69407,12916]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/232.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#fabebe" }
+		}
+	},
+	{
+		"id": 233,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-68574,-4107],[-68574,-10615],[-67213,-10615],[-67213,-4107]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/233.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#fabebe" }
+		}
+	},
+	{
+		"id": 234,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-133638,-48080],[-133638,-49196],[-130888,-49196],[-130888,-48080]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/234.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffd8b1" }
+		}
+	},
+	{
+		"id": 235,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-130596,-50263],[-130596,-51963],[-125965,-51963],[-125965,-50263]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/235.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffd8b1" }
+		}
+	},
+	{
+		"id": 236,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-122016,-53828],[-122016,-55859],[-116029,-55859],[-116029,-53828]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/236.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffd8b1" }
+		}
+	},
+	{
+		"id": 237,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-113520,-58179],[-113520,-59813],[-104761,-59813],[-104761,-58179]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/237.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffd8b1" }
+		}
+	},
+	{
+		"id": 238,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-102501,-61709],[-102501,-62750],[-93592,-62750],[-93592,-61709]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/238.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffd8b1" }
+		}
+	},
+	{
+		"id": 239,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-91097,-64404],[-91097,-66300],[-77155,-66300],[-77155,-64404]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/239.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffd8b1" }
+		}
+	},
+	{
+		"id": 240,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-69623,-14125],[-69623,-16313],[-67871,-16313],[-67871,-14125]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/240.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffd8b1" }
+		}
+	},
+	{
+		"id": 241,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-70670,-18360],[-70670,-26909],[-69808,-26909],[-69808,-18360]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/241.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffd8b1" }
+		}
+	},
+	{
+		"id": 242,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-72668,-33719],[-72668,-43297],[-72189,-43297],[-72189,-33719]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/242.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffd8b1" }
+		}
+	},
+	{
+		"id": 243,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-71665,-44221],[-71665,-48219],[-70910,-48219],[-70910,-44221]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/243.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffd8b1" }
+		}
+	},
+	{
+		"id": 244,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-70136,-51647],[-70136,-53788],[-68363,-53788],[-68363,-51647]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/244.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffd8b1" }
+		}
+	},
+	{
+		"id": 245,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-69005,-55110],[-69005,-57539],[-67893,-57539],[-67893,-55110]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/245.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffd8b1" }
+		}
+	},
+	{
+		"id": 246,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-62913,-64403],[-62913,-65314],[-54165,-65314],[-54165,-64403]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/246.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffd8b1" }
+		}
+	},
+	{
+		"id": 247,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-53076,-63717],[-53076,-64476],[-50114,-64476],[-50114,-63717]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/247.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffd8b1" }
+		}
+	},
+	{
+		"id": 248,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-47443,-61382],[-47443,-62253],[-44308,-62253],[-44308,-61382]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/248.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffd8b1" }
+		}
+	},
+	{
+		"id": 249,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-41091,-59619],[-41091,-60409],[-35566,-60409],[-35566,-59619]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/249.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffd8b1" }
+		}
+	},
+	{
+		"id": 250,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-34352,-57158],[-34352,-57986],[-30731,-57986],[-30731,-57158]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/250.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffd8b1" }
+		}
+	},
+	{
+		"id": 251,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-30926,-55036],[-30926,-55737],[-28284,-55737],[-28284,-55036]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/251.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffd8b1" }
+		}
+	},
+	{
+		"id": 252,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-27483,-54150],[-27483,-54622],[-26086,-54622],[-26086,-54150]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/252.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffd8b1" }
+		}
+	},
+	{
+		"id": 253,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-25073,-51117],[-25073,-52689],[-23628,-52689],[-23628,-51117]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/253.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffd8b1" }
+		}
+	},
+	{
+		"id": 254,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-22525,-49355],[-22525,-50587],[-20748,-50587],[-20748,-49355]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/254.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffd8b1" }
+		}
+	},
+	{
+		"id": 255,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-20832,-48184],[-20832,-49205],[-18686,-49205],[-18686,-48184]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/255.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffd8b1" }
+		}
+	},
+	{
+		"id": 256,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-17951,-45757],[-17951,-47763],[-14827,-47763],[-14827,-45757]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/256.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffd8b1" }
+		}
+	},
+	{
+		"id": 257,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-14866,-43368],[-14866,-45696],[-10506,-45696],[-10506,-43368]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/257.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffd8b1" }
+		}
+	},
+	{
+		"id": 258,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-11628,-41990],[-11628,-44429],[-8393,-44429],[-8393,-41990]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/258.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffd8b1" }
+		}
+	},
+	{
+		"id": 259,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-6467,-41112],[-6467,-43663],[14915,-43663],[14915,-41112]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/259.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffd8b1" }
+		}
+	},
+	{
+		"id": 260,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[16688,-43223],[16688,-45723],[21740,-45723],[21740,-43223]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/260.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffd8b1" }
+		}
+	},
+	{
+		"id": 261,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[34712,-52986],[34712,-54168],[45884,-54168],[45884,-52986]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/261.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffd8b1" }
+		}
+	},
+	{
+		"id": 262,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[47798,-53107],[47798,-54468],[52506,-54468],[52506,-53107]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/262.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffd8b1" }
+		}
+	},
+	{
+		"id": 263,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[53664,-51419],[53664,-52595],[61013,-52595],[61013,-51419]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/263.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffd8b1" }
+		}
+	},
+	{
+		"id": 264,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[62844,-49231],[62844,-50216],[68204,-50216],[68204,-49231]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/264.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffd8b1" }
+		}
+	},
+	{
+		"id": 265,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[69924,-47126],[69924,-48658],[76245,-48658],[76245,-47126]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/265.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffd8b1" }
+		}
+	},
+	{
+		"id": 266,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[77075,-46158],[77075,-47891],[81589,-47891],[81589,-46158]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/266.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffd8b1" }
+		}
+	},
+	{
+		"id": 267,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[86547,-44551],[86547,-46666],[97034,-46666],[97034,-44551]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/267.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffd8b1" }
+		}
+	},
+	{
+		"id": 268,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[106471,-44165],[106471,-46162],[120429,-46162],[120429,-44165]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/268.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffd8b1" }
+		}
+	},
+	{
+		"id": 269,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[122995,-44727],[122995,-46296],[129388,-46296],[129388,-44727]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/269.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#ffd8b1" }
+		}
+	},
+	{
+		"id": 270,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-370585,5767],[-370585,-3546],[-367704,-3546],[-367704,5767]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/270.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 271,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-368649,-6327],[-368649,-8310],[-365353,-8310],[-365353,-6327]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/271.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 272,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-359704,-10957],[-359704,-12628],[-333633,-12628],[-333633,-10957]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/272.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 273,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-328804,-13993],[-328804,-15234],[-322585,-15234],[-322585,-13993]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/273.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 274,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-320764,-10731],[-320764,-11800],[-319198,-11800],[-319198,-10731]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/274.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 277,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-321802,-20702],[-321802,-22619],[-318899,-22619],[-318899,-20702]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/277.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 278,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-321175,-24339],[-321175,-39058],[-320020,-39058],[-320020,-24339]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/278.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 279,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-321007,-39772],[-321007,-44022],[-319367,-44022],[-319367,-39772]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/279.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 281,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-315769,-52213],[-315769,-56375],[-314747,-56375],[-314747,-52213]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/281.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 282,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-313533,-56935],[-313533,-58905],[-310101,-58905],[-310101,-56935]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/282.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 283,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-309156,-59091],[-309156,-60763],[-295942,-60763],[-295942,-59091]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/283.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 284,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-294551,-57116],[-294551,-58915],[-278851,-58915],[-278851,-57116]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/284.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 285,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-277267,-53583],[-277267,-56119],[-269429,-56119],[-269429,-53583]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/285.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 286,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-269097,-52031],[-269097,-54755],[-266065,-54755],[-266065,-52031]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/286.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 287,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-266585,-51407],[-266585,-52794],[-265375,-52794],[-265375,-51407]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/287.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 289,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-255563,-46556],[-255563,-54184],[-254688,-54184],[-254688,-46556]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/289.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 290,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-252898,-49506],[-252898,-50911],[-242087,-50911],[-242087,-49506]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/290.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 292,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-234063,-52692],[-234063,-54268],[-231662,-54268],[-231662,-52692]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/292.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 294,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-222727,-56874],[-222727,-58411],[-215451,-58411],[-215451,-56874]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/294.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 295,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-214392,-55854],[-214392,-56891],[-211107,-56891],[-211107,-55854]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/295.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 296,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-210848,-54584],[-210848,-56051],[-209055,-56051],[-209055,-54584]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/296.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 299,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-186634,-52735],[-186634,-54569],[-185290,-54569],[-185290,-52735]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/299.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 300,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-184906,-49522],[-184906,-53452],[-184748,-53452],[-184748,-49522]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/300.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 302,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-182265,-43662],[-182265,-46262],[-180303,-46262],[-180303,-43662]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/302.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 303,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-180166,-41041],[-180166,-43622],[-173230,-43622],[-173230,-41041]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/303.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 304,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-170176,-42823],[-170176,-45357],[-167578,-45357],[-167578,-42823]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/304.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 306,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-255123,-54827],[-255123,-59026],[-254617,-59026],[-254617,-54827]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/306.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 307,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-255090,-59285],[-255090,-60224],[-253840,-60224],[-253840,-59285]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/307.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 308,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-254544,-60120],[-254544,-73798],[-253929,-73798],[-253929,-60120]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/308.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 309,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-257562,-78319],[-257562,-82091],[-257018,-82091],[-257018,-78319]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/309.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 310,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-253301,-86403],[-253301,-87178],[-250834,-87178],[-250834,-86403]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/310.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 311,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-249107,-90311],[-249107,-99756],[-248161,-99756],[-248161,-90311]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/311.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 312,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-250642,-114785],[-250642,-115710],[-249988,-115710],[-249988,-114785]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/312.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 313,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-251856,-117396],[-251856,-118226],[-251059,-118226],[-251059,-117396]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/313.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 314,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-253216,-119283],[-253216,-120425],[-252193,-120425],[-252193,-119283]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/314.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 315,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-254073,-121262],[-254073,-122883],[-253177,-122883],[-253177,-121262]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/315.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 316,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-255647,-125176],[-255647,-128021],[-254682,-128021],[-254682,-125176]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/316.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 317,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-256911,-128917],[-256911,-130610],[-255086,-130610],[-255086,-128917]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/317.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 318,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-257608,-132867],[-257608,-135404],[-256752,-135404],[-256752,-132867]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/318.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 319,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-257141,-136352],[-257141,-140385],[-256470,-140385],[-256470,-136352]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/319.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 320,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-260648,-141497],[-260648,-143994],[-259962,-143994],[-259962,-141497]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/320.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 321,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-259035,-144786],[-259035,-147337],[-258635,-147337],[-258635,-144786]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/321.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 322,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-261180,-149383],[-261180,-153505],[-260598,-153505],[-260598,-149383]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/322.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 323,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-262567,-151886],[-262567,-153550],[-259456,-153550],[-259456,-151886]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/323.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 325,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-259476,-154797],[-259476,-158241],[-259001,-158241],[-259001,-154797]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/325.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 326,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-270101,-160196],[-270101,-161300],[-267505,-161300],[-267505,-160196]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/326.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 328,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-249535,-168975],[-249535,-173791],[-248731,-173791],[-248731,-168975]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/328.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 329,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-249273,-183561],[-249273,-186132],[-247628,-186132],[-247628,-183561]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/329.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 330,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-237418,-199385],[-237418,-201308],[-235204,-201308],[-235204,-199385]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/330.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 331,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-233592,-202874],[-233592,-205508],[-230438,-205508],[-230438,-202874]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/331.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 332,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-226578,-201689],[-226578,-205505],[-225294,-205505],[-225294,-201689]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/332.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 333,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-224133,-206810],[-224133,-211617],[-223450,-211617],[-223450,-206810]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/333.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 334,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-229603,-213792],[-229603,-218493],[-225160,-218493],[-225160,-213792]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/334.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 335,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-220408,-224812],[-220408,-225423],[-209000,-225423],[-209000,-224812]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/335.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 336,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-205162,-223419],[-205162,-224077],[-199022,-224077],[-199022,-223419]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/336.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 337,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-186900,-229059],[-186900,-231228],[-181170,-231228],[-181170,-229059]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/337.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 339,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-334940,-87412],[-334940,-91243],[-328192,-91243],[-328192,-87412]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/339.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 340,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-344128,-103622],[-344128,-105417],[-334947,-105417],[-334947,-103622]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/340.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 341,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-333195,-101643],[-333195,-104635],[-329229,-104635],[-329229,-101643]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/341.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 343,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[-349883,-106585],[-349883,-107627],[-344431,-107627],[-344431,-106585]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/343.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#d2f53c" }
+		}
+	},
+	{
+		"id": 344,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[133178,-43896],[133178,-45948],[140996,-45948],[140996,-43896]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/344.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#aaffc3" }
+		}
+	},
+	{
+		"id": 348,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[168380,-46989],[168380,-49331],[171055,-49331],[171055,-46989]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/348.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#aaffc3" }
+		}
+	},
+	{
+		"id": 350,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[176028,-53218],[176028,-56740],[178163,-56740],[178163,-53218]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/350.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#aaffc3" }
+		}
+	},
+	{
+		"id": 352,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[182083,-56983],[182083,-60041],[184206,-60041],[184206,-56983]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/352.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#aaffc3" }
+		}
+	},
+	{
+		"id": 354,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[188084,-63782],[188084,-68099],[190026,-68099],[190026,-63782]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/354.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#aaffc3" }
+		}
+	},
+	{
+		"id": 355,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[196298,-70477],[196298,-75113],[198004,-75113],[198004,-70477]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/355.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#aaffc3" }
+		}
+	},
+	{
+		"id": 356,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[199686,-73486],[199686,-78389],[202387,-78389],[202387,-73486]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/356.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#aaffc3" }
+		}
+	},
+	{
+		"id": 357,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[204582,-76672],[204582,-83984],[215119,-83984],[215119,-76672]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/357.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#aaffc3" }
+		}
+	},
+	{
+		"id": 358,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[216404,-81285],[216404,-90805],[219814,-90805],[219814,-81285]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/358.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#aaffc3" }
+		}
+	},
+	{
+		"id": 359,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[220898,-87275],[220898,-92967],[225076,-92967],[225076,-87275]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/359.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#aaffc3" }
+		}
+	},
+	{
+		"id": 360,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[220336,-94067],[220336,-103297],[225688,-103297],[225688,-94067]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/360.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#aaffc3" }
+		}
+	},
+	{
+		"id": 363,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[241845,-140815],[241845,-147027],[247559,-147027],[247559,-140815]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/363.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#aaffc3" }
+		}
+	},
+	{
+		"id": 365,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[255620,-152026],[255620,-157263],[260365,-157263],[260365,-152026]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/365.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#aaffc3" }
+		}
+	},
+	{
+		"id": 366,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[263209,-142027],[263209,-147371],[267508,-147371],[267508,-142027]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/366.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#aaffc3" }
+		}
+	},
+	{
+		"id": 367,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[261877,-149206],[261877,-157590],[265644,-157590],[265644,-149206]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/367.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#aaffc3" }
+		}
+	},
+	{
+		"id": 368,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[281779,-176216],[281779,-181051],[284876,-181051],[284876,-176216]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/368.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#aaffc3" }
+		}
+	},
+	{
+		"id": 369,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[286369,-178562],[286369,-181578],[310825,-181578],[310825,-178562]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/369.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#aaffc3" }
+		}
+	},
+	{
+		"id": 370,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[318046,-177993],[318046,-180360],[326697,-180360],[326697,-177993]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/370.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#aaffc3" }
+		}
+	},
+	{
+		"id": 371,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[310457,-186244],[310457,-188762],[314172,-188762],[314172,-186244]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/371.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#aaffc3" }
+		}
+	},
+	{
+		"id": 372,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[315944,-190260],[315944,-193262],[319413,-193262],[319413,-190260]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/372.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#aaffc3" }
+		}
+	},
+	{
+		"id": 373,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[322056,-192462],[322056,-196329],[333269,-196329],[333269,-192462]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/373.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#aaffc3" }
+		}
+	},
+	{
+		"id": 375,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[332552,-197697],[332552,-203888],[337502,-203888],[337502,-197697]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/375.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#aaffc3" }
+		}
+	},
+	{
+		"id": 376,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[339105,-196029],[339105,-199347],[345713,-199347],[345713,-196029]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/376.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#aaffc3" }
+		}
+	},
+	{
+		"id": 378,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[354603,-191751],[354603,-193366],[376216,-193366],[376216,-191751]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/378.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#aaffc3" }
+		}
+	},
+	{
+		"id": 381,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[389353,-189631],[389353,-191574],[393758,-191574],[393758,-189631]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/381.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#aaffc3" }
+		}
+	},
+	{
+		"id": 384,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[404429,-176980],[404429,-182096],[407200,-182096],[407200,-176980]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/384.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#aaffc3" }
+		}
+	},
+	{
+		"id": 385,
+		"type": "Feature",
+		"geometry": {
+			"type": "Polygon",
+			"coordinates": [[[408041,-176631],[408041,-186395],[419449,-186395],[419449,-176631]]]
+		},
+		"properties": {
+			"tooltip": "<iframe src=\"http://www.gitgud.eu/bdo/.hidden/385.html\" width=\"220\" height=\"230\" scrolling=\"no\" frameborder=\"0\"></iframe>",
+			"style": { "color": "#aaffc3" }
+		}
+	}]}
